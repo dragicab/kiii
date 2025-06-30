@@ -2,6 +2,15 @@
 
 ![Docker Build and Push](https://github.com/dragicab/kiii/actions/workflows/docker-build-push.yml/badge.svg)
 
+## Docker Images
+
+This project automatically builds and pushes Docker images to Docker Hub:
+
+- Backend: simple-mern-backend
+- Frontend: simple-mern-frontend
+
+Last updated: 2024 DevOps Project
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/14852491/64910580-cc163700-d70f-11e9-99ec-8c49095a8c3b.png" />
   <br/>
